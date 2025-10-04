@@ -45,7 +45,7 @@ export const modalContent = style({
   boxShadow: cssVar('cmdShadow'),
   borderRadius: '12px',
   maxWidth: 'calc(100vw - 50px)',
-  minWidth: 480,
+  // minWidth: 480,
   // minHeight: 420,
   // :focus-visible will set outline
   outline: 'none',
